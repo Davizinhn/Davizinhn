@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Davi and I'm a software developer, from Brazil.</p>
+<p align="center">My name is Davi and I'm a game developer, from Brazil.</p>
 
 ###
 
