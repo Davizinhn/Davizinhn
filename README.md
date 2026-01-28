@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>👾 I'm currently developing a 2D game engine</p>
+<p align="center">✨ Creating bugs since 2019<br>👾 I'm currently developing a 2D game engine</p>
 
 ###
 
